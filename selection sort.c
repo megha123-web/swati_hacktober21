@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a[100],n,i;
+    int a[500],n,i;
     printf("\n Enter no. of elements : ");
     scanf("%d",&n);
     printf("\n Enter array : ");
